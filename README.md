@@ -64,3 +64,7 @@ Reference notebook : https://www.kaggle.com/jsaguiar/lightgbm-with-simple-featur
 
 * HomeCredit_columns_description.csv
   * This file contains descriptions for the columns in the various data files.
+
+## Understanding the Data
+
+![home_credit](https://user-images.githubusercontent.com/72763400/118276281-244aa100-b4d0-11eb-8ae7-c18bd49e2f2b.png)
